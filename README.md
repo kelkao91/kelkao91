@@ -1,15 +1,15 @@
 <h2> Hi, I'm Kelly! 👋</h2>
+#A recent university grad who specializes in Marketing and Business Analytics.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩‍💻 Python Projects:</h2>
+[Data Analysis & Visualization](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Data%20Analysis%20%26%20Visualization)
+[Machine Learning](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Machine%20Learning)
+[Others](https://github.com/kelkao91/Python)
 
+
+<h2>👩‍💻 SQL Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-
 
 <h2> 🤳 Connect with me:</h2>
 
