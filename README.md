@@ -2,9 +2,9 @@
 #A recent university grad who specializes in Marketing and Business Analytics.
 
 <h2>👩‍💻 Python Projects:</h2>
-[Data Analysis & Visualization](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Data%20Analysis%20%26%20Visualization)
-[Machine Learning](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Machine%20Learning)
-[Others](https://github.com/kelkao91/Python)
+- [Data Analysis & Visualization](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Data%20Analysis%20%26%20Visualization)
+- [Machine Learning](https://github.com/kelkao91/Python/tree/7939820ab640ddf6ff3e9c5fa4b293d758576146/Project_Machine%20Learning)
+- [Others](https://github.com/kelkao91/Python)
 
 
 <h2>👩‍💻 SQL Projects:</h2>
