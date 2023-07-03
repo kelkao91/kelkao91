@@ -8,7 +8,9 @@ A recent university grad who specializes in Marketing and Business Analytics.
 - [Others](https://github.com/kelkao91/Python/tree/main)
 
 
-<h2>👩‍💻 SQL Projects:</h2>
+<h2>👩‍💻 SQL:</h2>
+
+- [All Projects](https://github.com/kelkao91/SQL/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
