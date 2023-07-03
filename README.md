@@ -1,4 +1,4 @@
-### Hi, I'm Kelly! 👋
+<h2> Hi, I'm Kelly! 👋</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
